@@ -10,13 +10,14 @@ const Main=()=>{
             <div id="home" className="d-flex flex-column justify-content-center text-white bg-black py-5">
                 <Home/>
             </div>
-            <div id="about" className=" bg-dark text-light h-100 py-5">
+            
+            <div id="about" className=" bg-black  text-light h-100 py-5">
                 <About/>
             </div>
             <div id="skills" className=" text-white h-100 py-5">
                 <Skills/>
             </div>
-            <div id="my_works" className="bg-dark py-5 h-100  ">
+            <div id="my_works" className="bg-black  py-5 h-100  ">
                 <My_work/>
             </div>
         </div>
